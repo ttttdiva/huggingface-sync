@@ -1,1 +1,8 @@
-{"mobile":{"version":"0.8.5","url":"https://github.com/ttttdiva/huggingface-sync/releases/download/v0.8.5/hf-sync.apk","notes":"v0.8.5 リリース","date":"2026-04-15"}}
+{
+  "mobile": {
+    "version": "0.8.6",
+    "url": "https://github.com/ttttdiva/huggingface-sync/releases/download/v0.8.6/hf-sync.apk",
+    "notes": "v0.8.6 リリース",
+    "date": "2026-04-15"
+  }
+}
