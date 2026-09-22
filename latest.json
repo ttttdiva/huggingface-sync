@@ -1,8 +1,8 @@
 {
   "mobile": {
-    "version": "0.9.44",
-    "url": "https://github.com/ttttdiva/huggingface-sync/releases/download/v0.9.44/hf-sync.apk",
-    "notes": "既存同期の再開・停止対策、ファイル差分確認の高速化、保存済み件数と転送量の表示、自動同期のエラー後の再試行を修正。同期ジョブやフォルダは削除せず更新してください。",
+    "version": "0.9.45",
+    "url": "https://github.com/ttttdiva/huggingface-sync/releases/download/v0.9.45/hf-sync.apk",
+    "notes": "v0.9.45 リリース",
     "date": "2026-09-22"
   }
 }
