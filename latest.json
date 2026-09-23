@@ -2,7 +2,7 @@
   "mobile": {
     "version": "0.9.46",
     "url": "https://github.com/ttttdiva/huggingface-sync/releases/download/v0.9.46/hf-sync.apk",
-    "notes": "v0.9.46 リリース",
+    "notes": "BGMの不要な全件再取得を防止し、同じ内容の既存曲の保存日時を保持。同期履歴の復旧・フルスキャンでも内容を照合します。同期ジョブやフォルダは削除せず更新してください。",
     "date": "2026-09-23"
   }
 }
